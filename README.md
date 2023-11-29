@@ -18,7 +18,7 @@ This repo is a collection of AWESOME things about **open-vocabulary** segmentati
 # Papers
 |Year|Venue|Prompts|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-|2023|arXiv|`point`, `box`, `mask`, `text`|[Segment Anything](https://arxiv.org/abs/2211.10412)|[[project]](https://segment-anything.com) [[Code]](https://github.com/facebookresearch/segment-anything) [[Demo]](https://segment-anything.com/demo) [[Dataset]](https://segment-anything.com/dataset/index.html)|
+|2023|arXiv|`point/click`, `box`, `mask`, `text`|[Segment Anything](https://arxiv.org/abs/2211.10412)|[[project]](https://segment-anything.com) [[Code]](https://github.com/facebookresearch/segment-anything) [[Demo]](https://segment-anything.com/demo) [[Dataset]](https://segment-anything.com/dataset/index.html)|
 
 # Datasets
 - SA-1B [[2023, SAM]](https://segment-anything.com/dataset/index.html)
@@ -37,3 +37,4 @@ This repo is a collection of AWESOME things about **open-vocabulary** segmentati
 
 # Other Resources and Repos
 - [Awesome Open Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary)
+- [Awesome-interactive-segmentation](https://github.com/michaelowenliu/awesome-interactive-segmentation)
